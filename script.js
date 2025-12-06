@@ -1,5 +1,5 @@
 // WhatsApp Number (GANTI DENGAN NOMORMU)
-const whatsappNumber = "6281234567890";
+const whatsappNumber = "6282254983996";
 
 // DOM Elements
 const menuToggle = document.getElementById('menuToggle');
