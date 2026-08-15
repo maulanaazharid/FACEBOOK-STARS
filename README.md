@@ -9,7 +9,7 @@ Platform e-commerce sederhana berbasis web untuk layanan pembelian Facebook Star
 ---
 
 ## 🚀 Live Demo
-Lihat dan coba websitenya langsung di sini: **(https://link-website-anda.com)**
+Lihat dan coba websitenya langsung di sini: **(https://facebook-stars.vercel.app/)**
 
 ---
 
